@@ -12,6 +12,19 @@ The system allows teachers to manage students and record their daily Quran progr
 
 This project gave me practical experience building and deploying a complete full-stack application from the backend API and database to the frontend interface.
 
+## Project Scope & Design Decisions
+
+This project was developed within a short timeframe for a specific group of users at a Quran center rather than as a complete center-wide management platform.
+
+The main goal was to deliver a practical and usable solution quickly while maintaining a clean and functional user experience.
+
+- The application interface is primarily in **Arabic** and designed for Arabic-speaking users.
+- The frontend follows a **mobile-first approach**, as smartphones were the primary devices used by the target users, while remaining accessible on desktop devices.
+- Development focused on the features required by the target group rather than covering every administrative process within the center.
+- The system provides flexibility when recording Quran memorization progress instead of enforcing predefined relationships between Surahs, Ayahs, and Quran pages.
+- The first version prioritized **rapid delivery, usability, and core functionality**.
+- Authentication and role-based authorization are implemented, but additional security hardening would be required before expanding the system to a larger or more public user base.
+- 
 ## Key Features
 
 - Manage Quran classes and students
@@ -23,7 +36,7 @@ This project gave me practical experience building and deploying a complete full
 - Authentication using JWT
 - Role-based authorization for Admin and Teacher users
 - Protected frontend routes
-- Responsive web interface
+-Responsive Arabic interface with a mobile-first design, while remaining accessible on desktop devices.
 - RESTful API architecture
 
 ## User Roles
@@ -151,6 +164,10 @@ npm start
 The system has been developed and deployed for real-world use in managing Quran memorization classes and student progress.
 
 Further improvements and features may be added as the project continues to evolve.
+
+## Future Improvements
+
+Potential future improvements include stronger security hardening, a structured Quran data model linking Surahs, Ayahs, and pages, broader center-wide management features, and further improvements to the desktop experience.
 
 ## Author
 
