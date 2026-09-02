@@ -122,9 +122,9 @@ The interface is primarily designed in Arabic with a mobile-first approach.
 ### Authentication & Administration
 
 <p align="center">
-  <img src="screenshots/Login.jpeg" width="300" alt="Login Page">
+  <img src="Screenshots/Login.jpeg" width="300" alt="Login Page">
   &nbsp;&nbsp;
-  <img src="screenshots/Admin-Home.jpeg" width="300" alt="Admin Dashboard">
+  <img src="Screenshots/Admin-Home.jpeg" width="300" alt="Admin Dashboard">
 </p>
 
 <p align="center">
@@ -136,33 +136,33 @@ The interface is primarily designed in Arabic with a mobile-first approach.
 ### Classes & Teachers
 
 <p align="center">
-  <img src="screenshots/Classes-DashBoard.jpeg" width="300" alt="Classes Dashboard">
+  <img src="Screenshots/Classes-DashBoard.jpeg" width="300" alt="Classes Dashboard">
   &nbsp;&nbsp;
-  <img src="screenshots/Teacher-dashboard.jpeg" width="300" alt="Teacher Dashboard">
+  <img src="Screenshots/Teacher-dashboard.jpeg" width="300" alt="Teacher Dashboard">
 </p>
 
 ### Student Management
 
 <p align="center">
-  <img src="screenshots/Students-dashboard.jpeg" width="300" alt="Students Dashboard">
+  <img src="Screenshots/Students-dashboard.jpeg" width="300" alt="Students Dashboard">
   &nbsp;&nbsp;
-  <img src="screenshots/Teacher-Home.jpeg" width="300" alt="Teacher Home">
+  <img src="Screenshots/Teacher-Home.jpeg" width="300" alt="Teacher Home">
 </p>
 
 ### Daily Progress Tracking
 
 <p align="center">
-  <img src="screenshots/daily-progress.jpeg" width="300" alt="Daily Progress">
+  <img src="Screenshots/daily-progress.jpeg" width="300" alt="Daily Progress">
   &nbsp;&nbsp;
-  <img src="screenshots/daily-progress-filterByName.jpeg" width="300" alt="Daily Progress Filter">
+  <img src="Screenshots/daily-progress-filterByName.jpeg" width="300" alt="Daily Progress Filter">
 </p>
 
 ### Quran Progress & Tasks
 
 <p align="center">
-  <img src="screenshots/quran-progress.jpeg" width="300" alt="Quran Progress">
+  <img src="Screenshots/quran-progress.jpeg" width="300" alt="Quran Progress">
   &nbsp;&nbsp;
-  <img src="screenshots/Addtask-Page.jpeg" width="300" alt="Add Student Task">
+  <img src="Screenshots/Addtask-Page.jpeg" width="300" alt="Add Student Task">
 </p>
 
 ## Running the Project Locally
