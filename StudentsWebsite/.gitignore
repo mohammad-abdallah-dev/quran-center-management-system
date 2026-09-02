@@ -1,0 +1,71 @@
+﻿# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Logs
+*.log
+logs/
+
+# ASP.NET secrets/config overrides
+appsettings.Local.json
+appsettings.Production.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Certificates / keys
+*.pfx
+*.p12
+*.key
+*.pem
+
+# Publish output
+publish/
+wwwroot/publish/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+# Visual Studio additional files
+.vscode/
+TestResults/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Local databases
+*.mdf
+*.ldf
+*.db
+
+# Backup files
+*.bak
+*.tmp
+
+# User Secrets should never be stored in the project
+secrets.json
+# Visual Studio publish profiles
+*.pubxml
+*.pubxml.user
+# Visual Studio publish profiles
+Properties/PublishProfiles/
+**/Properties/PublishProfiles/
+*.pubxml
+*.pubxml.user
+StudentsWebsite/Properties/PublishProfiles/
